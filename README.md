@@ -1,8 +1,5 @@
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=okaybody10&show_icons=true&theme=vision-friendly-dark" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaybody10&layout=compact&theme=vision-friendly-dark" />
-</div>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=okaybody10&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Jae Hyuk's github stats" /> <br></br> <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaybody10&hide=jupyter%20notebook&theme=algolia&layout=compact" />
 <!--
 **okaybody10/okaybody10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
