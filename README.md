@@ -3,6 +3,9 @@
 | ------------- | ------------- |
 # Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fokaybody10&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+# BOJ
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okaybody5)](https://solved.ac/okaybody5)
 <!--
 **okaybody10/okaybody10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
